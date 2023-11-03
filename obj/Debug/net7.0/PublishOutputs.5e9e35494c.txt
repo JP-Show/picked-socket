@@ -1,0 +1,8 @@
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\SocketInfo.exe
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\SocketInfo.dll
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\SocketInfo.deps.json
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\SocketInfo.runtimeconfig.json
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\SocketInfo.pdb
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\System.CodeDom.dll
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\System.Management.dll
+C:\Users\DREZZY\Desktop\SocketInfo\bin\Debug\net7.0\publish\runtimes\win\lib\netcoreapp2.0\System.Management.dll
